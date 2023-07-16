@@ -1,0 +1,515 @@
+"provinsi","kabupaten_kota","kabkota","ibu_kota","bupati_wali_kota","luas_wilayah","jumlah_penduduk","kecamatan","total_kelurahan_desa"
+"Aceh","Aceh Barat","Kabupaten","Meulaboh","Mahdi Effendi (Pj.)",2782.87,198858,12,322
+"Aceh","Aceh Barat Daya","Kabupaten","Blangpidie","Darmansah (Pj.)",1882.28,153515,9,152
+"Aceh","Aceh Besar","Kabupaten","Kota Jantho","Muhammad Iswanto (Pj.)",2891.48,422241,23,604
+"Aceh","Aceh Jaya","Kabupaten","Calang","Nurdin (Pj.)",3872.35,96049,9,172
+"Aceh","Aceh Selatan","Kabupaten","Tapak Tuan","Tgk. Amran",4175.38,234169,18,260
+"Aceh","Aceh Singkil","Kabupaten","Singkil","Marthunis (Pj.)",1852.82,129674,11,116
+"Aceh","Aceh Tamiang","Kabupaten","Karang Baru","Meurah Budiman (Pj.)",2187.66,301800,12,216
+"Aceh","Aceh Tengah","Kabupaten","Takengon","Teuku Mirzuan (Pj.)",4468.42,219744,14,295
+"Aceh","Aceh Tenggara","Kabupaten","Kutacane","Syakir (Pj.)",4179.12,227921,16,385
+"Aceh","Aceh Timur","Kabupaten","Idi Rayeuk","Mahyuddin (Pj.)",5409.41,434929,24,513
+"Aceh","Aceh Utara","Kabupaten","Lhoksukon","Azwardi Abdullah (Pj.)",2705.26,609705,27,852
+"Aceh","Bener Meriah","Kabupaten","Simpang Tiga Redelong","Haili Yoga (Pj.)",1907.4,168469,10,232
+"Aceh","Bireuen","Kabupaten","Bireuen","Aulia Sofyan (Pj.)",1796.99,445503,17,609
+"Aceh","Gayo Lues","Kabupaten","Blang Kejeren","Syaridin Porang (Pj.)",5541.29,101955,11,136
+"Aceh","Nagan Raya","Kabupaten","Suka Makmue","Fitriany Farhas (Pj.)",3524.16,172827,10,222
+"Aceh","Pidie","Kabupaten","Sigli","Wahyudi Adisiswanto (Pj.)",3177.49,436796,23,730
+"Aceh","Pidie Jaya","Kabupaten","Meureudu","Aiyub Abbas",939,160272,8,222
+"Aceh","Simeulue","Kabupaten","Sinabang","Ahmadlyah (Pj.)",1821.75,94560,10,138
+"Aceh","Banda Aceh","Kota","Banda Aceh","Bakri Siddiq (Pj.)",56.77,254024,9,90
+"Aceh","Langsa","Kota","Langsa","Said Mahmum (Pj.)",224.24,186075,5,66
+"Aceh","Lhokseumawe","Kota","Lhokseumawe","Imran (Pj.)",132.97,191688,4,68
+"Aceh","Sabang","Kota","Sabang","Reza Fahlevi (Pj.)",122.06,42867,3,18
+"Aceh","Subulussalam","Kota","Subulussalam","Affan Alfian Bintang",1183.6,96296,5,82
+"Sumatra Utara","Asahan","Kabupaten","Kisaran","Surya",3737.83,791174,25,204
+"Sumatra Utara","Batu Bara","Kabupaten","Limapuluh","Zahir",888.14,443816,12,151
+"Sumatra Utara","Dairi","Kabupaten","Sidikalang","Eddy Keleng Ate Berutu",2083.6,319583,15,169
+"Sumatra Utara","Deli Serdang","Kabupaten","Lubuk Pakam","Ashari Tambunan",2581.23,1991108,22,394
+"Sumatra Utara","Humbang Hasundutan","Kabupaten","Dolok Sanggul","Dosmar Banjarnahor",2351.51,204377,10,154
+"Sumatra Utara","Karo","Kabupaten","Kabanjahe","Cory Sriwaty Sebayang",2206.88,410465,17,269
+"Sumatra Utara","Labuhanbatu","Kabupaten","Rantau Prapat","Erik Adtrada Ritonga",2772.38,505875,9,98
+"Sumatra Utara","Labuhanbatu Selatan","Kabupaten","Kota Pinang","Edimin",3079.61,325451,5,54
+"Sumatra Utara","Labuhanbatu Utara","Kabupaten","Aek Kanopan","Hendri Yanto Sitorus",3686.01,396555,8,90
+"Sumatra Utara","Langkat","Kabupaten","Stabat","Syah Afandin (Plt.)",6140.04,1084108,23,277
+"Sumatra Utara","Mandailing Natal","Kabupaten","Panyabungan","Jafar Sukhairi Nasution",6547.26,491005,23,404
+"Sumatra Utara","Nias","Kabupaten","Gido","Ya'atulo Gulö",902.4,145644,10,170
+"Sumatra Utara","Nias Barat","Kabupaten","Lahomi","Khenoki Waruwu",464.22,96938,8,105
+"Sumatra Utara","Nias Selatan","Kabupaten","Teluk Dalam","Hilarius Duha",2531.7,367970,35,461
+"Sumatra Utara","Nias Utara","Kabupaten","Lotu","Amizaro Waruwu",1238.06,152378,11,113
+"Sumatra Utara","Padang Lawas","Kabupaten","Sibuhuan","Ali Sutan Harahap",3914.41,264041,12,304
+"Sumatra Utara","Padang Lawas Utara","Kabupaten","Gunung Tua","Andar Amin Harahap",3945.56,270595,9,388
+"Sumatra Utara","Pakpak Bharat","Kabupaten","Salak","Franc Bernhard Tumanggor",1365.61,55550,8,52
+"Sumatra Utara","Samosir","Kabupaten","Pangururan","Vandiko Gultom",1850.04,142318,9,134
+"Sumatra Utara","Serdang Bedagai","Kabupaten","Sei Rampah","Darma Wijaya",1949.18,669746,17,243
+"Sumatra Utara","Simalungun","Kabupaten","Raya","Radiapoh Hasiholan Sinaga",4601.48,1039056,32,413
+"Sumatra Utara","Tapanuli Selatan","Kabupaten","Sipirok","Dolly Putra Parlindungan Pasaribu",4201.04,315713,14,248
+"Sumatra Utara","Tapanuli Tengah","Kabupaten","Pandan","Elfin Elyas Nainggolan (Pj.)",2307.68,366361,20,215
+"Sumatra Utara","Tapanuli Utara","Kabupaten","Tarutung","Nikson Nababan",3895.6,321514,15,252
+"Sumatra Utara","Toba","Kabupaten","Balige","Poltak Sitorus",2291.62,213924,16,244
+"Sumatra Utara","Binjai","Kota","Binjai","Amir Hamzah",93.77,300499,5,37
+"Sumatra Utara","Gunungsitoli","Kota","Gunungsitoli","Lakhomizaro Zebua",208.68,137249,6,101
+"Sumatra Utara","Medan","Kota","Medan","Bobby Nasution",279.29,2527050,21,151
+"Sumatra Utara","Padang Sidempuan","Kota","Padang Sidempuan","Irsan Efendi Nasution",159.3,228744,6,79
+"Sumatra Utara","Pematangsiantar","Kota","Pematangsiantar","Susanti Dewayani",75.92,274278,8,53
+"Sumatra Utara","Sibolga","Kota","Sibolga","Jamaluddin Pohan",11.47,95527,4,17
+"Sumatra Utara","Tanjungbalai","Kota","Tanjungbalai","Waris Thalib",60.07,179589,6,31
+"Sumatra Utara","Tebing Tinggi","Kota","Tebing Tinggi","Muhammad Dimiyathi (Pj.)",39.17,177029,5,35
+"Sumatra Barat","Agam","Kabupaten","Lubuk Basung","Andri Warman",1804.3,529138,16,92
+"Sumatra Barat","Dharmasraya","Kabupaten","Pulau Punjung","Sutan Riska Tuanku Kerajaan",2961.13,228591,11,52
+"Sumatra Barat","Kepulauan Mentawai","Kabupaten","Tua Pejat","Martinus Dahlan (Pj.)",6011.35,87623,10,43
+"Sumatra Barat","Lima Puluh Kota","Kabupaten","Sarilamak","Safaruddin Datuak Bandaro Rajo",3571.14,383525,13,79
+"Sumatra Barat","Padang Pariaman","Kabupaten","Parit Malintang","Suhatri Bur",1332.51,430626,17,103
+"Sumatra Barat","Pasaman","Kabupaten","Lubuk Sikaping","Benny Utama",3947.63,299851,12,62
+"Sumatra Barat","Pasaman Barat","Kabupaten","Simpang Ampek","Hamsuardi",3887.77,431672,11,90
+"Sumatra Barat","Pesisir Selatan","Kabupaten","Painan","Rusma Yul Anwar",5749.89,504418,15,182
+"Sumatra Barat","Sijunjung","Kabupaten","Muaro Sijunjung","Benny Dwifa Yuswir",3130.4,235045,8,62
+"Sumatra Barat","Solok","Kabupaten","Arosuka","Epyardi Asda",3738,391497,14,74
+"Sumatra Barat","Solok Selatan","Kabupaten","Padang Aro","Khairunas",3346.2,182027,7,39
+"Sumatra Barat","Tanah Datar","Kabupaten","Batusangkar","Eka Putra",1336.1,371704,14,75
+"Sumatra Barat","Bukittinggi","Kota","Bukittinggi","Erman Safar",25.24,121028,3,24
+"Sumatra Barat","Padang","Kota","Padang","Hendri Septa",693.66,909040,11,104
+"Sumatra Barat","Padang Panjang","Kota","Padang Panjang","Fadly Amran",23,56311,2,16
+"Sumatra Barat","Pariaman","Kota","Pariaman","Genius Umar",66.13,94224,4,71
+"Sumatra Barat","Payakumbuh","Kota","Payakumbuh","Rida Ananda (Pj.)",85.22,139576,5,47
+"Sumatra Barat","Sawahlunto","Kota","Sawahlunto","Deri Asta",231.93,65138,4,37
+"Sumatra Barat","Solok","Kota","Solok","Zul Elfian",71.29,73438,2,13
+"Riau","Bengkalis","Kabupaten","Bengkalis","Kasmarni",6975.41,592390,11,155
+"Riau","Indragiri Hilir","Kabupaten","Tembilahan","Muhammad Wardan",12614.78,663248,20,236
+"Riau","Indragiri Hulu","Kabupaten","Rengat","Rezita Meylani Yopi",7723.8,475002,14,194
+"Riau","Kampar","Kabupaten","Bangkinang","Muhammad Firdaus (Pj.)",10983.47,898840,21,250
+"Riau","Kepulauan Meranti","Kabupaten","Selatpanjang","Asmar (Plt.)",3707.84,217607,9,101
+"Riau","Kuantan Singingi","Kabupaten","Koto Taluk","Suhardiman Amby (Plt.)",5259.36,351786,15,229
+"Riau","Pelalawan","Kabupaten","Pangkalan Kerinci","Zukri",12758.45,422907,12,118
+"Riau","Rokan Hilir","Kabupaten","Bagansiapiapi","Afrizal Sintong",8881.59,669996,15,184
+"Riau","Rokan Hulu","Kabupaten","Pasir Pengaraian","Sukiman",7588.13,594438,16,145
+"Riau","Siak","Kabupaten","Siak","Alfedri",8275.18,488497,14,131
+"Riau","Dumai","Kota","Dumai","Paisal",1623.38,340310,7,36
+"Riau","Pekanbaru","Kota","Pekanbaru","Muflihun (Pj.)",632.27,1020308,15,83
+"Jambi","Batanghari","Kabupaten","Muara Bulian","Muhammad Fadhil Arief",5804.83,301700,8,124
+"Jambi","Bungo","Kabupaten","Muara Bungo","Mashuri",4659,355927,17,153
+"Jambi","Kerinci","Kabupaten","Siulak","Adirozal",3807.28,254241,16,287
+"Jambi","Merangin","Kabupaten","Bangko","Mashuri",7668.61,357315,24,215
+"Jambi","Muaro Jambi","Kabupaten","Sengeti","Bachyuni Deliansyah (Pj.)",5246,406799,11,155
+"Jambi","Sarolangun","Kabupaten","Sarolangun","Henrizal (Pj.)",6174,279532,10,158
+"Jambi","Tanjung Jabung Barat","Kabupaten","Kuala Tungkal","Anwar Sadat",5009.82,323466,13,134
+"Jambi","Tanjung Jabung Timur","Kabupaten","Muara Sabak","Romi Hariyanto",5445,232048,11,93
+"Jambi","Tebo","Kabupaten","Muara Tebo","Aspan (Pj.)",6461,335228,12,112
+"Jambi","Jambi","Kota","Jambi","Syarif Fasha",205.38,621365,11,62
+"Jambi","Sungai Penuh","Kota","Sungai Penuh","Ahmadi Zubir",391.5,97190,8,69
+"Sumatra Selatan","Banyuasin","Kabupaten","Pangkalan Balai","Askolani Jasi",11832.99,843871,21,304
+"Sumatra Selatan","Empat Lawang","Kabupaten","Tebing Tinggi","Joncik Muhammad",2256.44,343839,10,156
+"Sumatra Selatan","Lahat","Kabupaten","Lahat","Cik Ujang",5311.74,434939,24,378
+"Sumatra Selatan","Muara Enim","Kabupaten","Muara Enim","Ahmad Usmarwi Kaffah (Plt.)",7383.9,617846,22,255
+"Sumatra Selatan","Musi Banyuasin","Kabupaten","Sekayu","Apriyadi (Pj.)",14266.26,627070,14,240
+"Sumatra Selatan","Musi Rawas","Kabupaten","Muara Beliti","Ratna Machmud",6350.1,398732,14,199
+"Sumatra Selatan","Musi Rawas Utara","Kabupaten","Rupit","Devi Suhartoni",6008.55,190420,7,89
+"Sumatra Selatan","Ogan Ilir","Kabupaten","Indralaya","Panca Wijaya Akbar",2666.09,419401,16,241
+"Sumatra Selatan","Ogan Komering Ilir","Kabupaten","Kayu Agung","Iskandar",18359.04,772742,18,327
+"Sumatra Selatan","Ogan Komering Ulu","Kabupaten","Baturaja","Teddy Meilwansyah (Pj.)",4797.06,371106,13,157
+"Sumatra Selatan","Ogan Komering Ulu Selatan","Kabupaten","Muaradua","Popo Ali Martopo",5493.94,416616,19,259
+"Sumatra Selatan","Ogan Komering Ulu Timur","Kabupaten","Martapura","Lanosin Hamzah",3370,653062,20,312
+"Sumatra Selatan","Penukal Abab Lematang Ilir","Kabupaten","Talang Ubi","Heri Amalindo",1840,197290,5,71
+"Sumatra Selatan","Lubuklinggau","Kota","Lubuklinggau","SN Prana Putra Sohe",401.5,236828,8,72
+"Sumatra Selatan","Pagar Alam","Kota","Pagar Alam","Alfian Maskoni",633.66,195748,5,35
+"Sumatra Selatan","Palembang","Kota","Palembang","Harnojoyo",369.22,1686073,18,107
+"Sumatra Selatan","Prabumulih","Kota","Prabumulih","Ridho Yahya",456.9,195748,6,37
+"Bengkulu","Bengkulu Selatan","Kabupaten","Kota Manna","Gusnan Mulyadi",1186.7,166249,11,158
+"Bengkulu","Bengkulu Tengah","Kabupaten","Karang Tinggi","Heriyandi Roni (Pj.)",1223.94,116706,10,143
+"Bengkulu","Bengkulu Utara","Kabupaten","Kota Arga Makmur","Mian",4424.6,296523,19,220
+"Bengkulu","Kaur","Kabupaten","Kaur Selatan","Gusril Fauzi",2365,135200,15,195
+"Bengkulu","Kepahiang","Kabupaten","Kepahiang","Hidayatullah Sjahid",664.8,153232,8,117
+"Bengkulu","Lebong","Kabupaten","Tubei","Kopli Ansori",2427.31,118400,13,104
+"Bengkulu","Mukomuko","Kabupaten","Kota Mukomuko","Sapuan",4146.52,190498,15,151
+"Bengkulu","Rejang Lebong","Kabupaten","Curup","Syamsul Effendi",1515.76,257498,15,156
+"Bengkulu","Seluma","Kabupaten","Pasar Tais","Erwin Octavian",2479.36,207877,14,202
+"Bengkulu","Bengkulu","Kota","Bengkulu","Helmi Hasan",152,371828,9,67
+"Lampung","Lampung Barat","Kabupaten","Liwa","Nukman (Pj.)",2142.78,302139,15,136
+"Lampung","Lampung Selatan","Kabupaten","Kalianda","Nanang Ermanto",2219.01,1064301,17,260
+"Lampung","Lampung Tengah","Kabupaten","Gunung Sugih","Musa Ahmad",4544.68,1460045,28,311
+"Lampung","Lampung Timur","Kabupaten","Sukadana","M. Dawam Rahardjo",3864.69,1110340,24,264
+"Lampung","Lampung Utara","Kabupaten","Kotabumi","Budi Utomo",2529.54,633099,23,247
+"Lampung","Mesuji","Kabupaten","Wiralaga Mulya","Sulpakar (Pj.)",2205.57,227518,7,105
+"Lampung","Pesawaran","Kabupaten","Gedong Tataan","Dendi Ramadhona",1278.21,477468,11,144
+"Lampung","Pesisir Barat","Kabupaten","Krui","Agus Istiqlal",2988.07,162697,11,118
+"Lampung","Pringsewu","Kabupaten","Pringsewu","Adi Erlansyah (Pj.)",614.48,405466,9,131
+"Lampung","Tanggamus","Kabupaten","Kota Agung","Dewi Handajani",2900.29,640275,20,302
+"Lampung","Tulang Bawang","Kabupaten","Menggala","Qodratul Ikhwan (Pj.)",3091.08,430021,15,151
+"Lampung","Tulang Bawang Barat","Kabupaten","Panaragan Jaya","Zaidirina Wardoyo (Pj.)",1285.74,286162,9,96
+"Lampung","Way Kanan","Kabupaten","Blambangan Umpu","Raden Adipati Surya",3657.49,473575,14,227
+"Lampung","Bandar Lampung","Kota","Bandar Lampung","Eva Dwiana",183.31,1166066,20,126
+"Lampung","Metro","Kota","Metro","Wahdi",73.15,168676,5,22
+"Kepulauan Riau","Bangka","Kabupaten","Sungai Liat","Mulkan",3028.79,329911,8,81
+"Kepulauan Riau","Bangka Barat","Kabupaten","Muntok","Sukirman",2884.15,204612,6,66
+"Kepulauan Riau","Bangka Selatan","Kabupaten","Toboali","Riza Herdavid",3607.08,198189,8,53
+"Kepulauan Riau","Bangka Tengah","Kabupaten","Koba","Algafry Rahman",2269.03,192429,6,63
+"Kepulauan Riau","Belitung","Kabupaten","Tanjung Pandan","Sahani Saleh",2293.69,184004,5,49
+"Kepulauan Riau","Belitung Timur","Kabupaten","Manggar","Burhanudin",2506.91,126939,7,39
+"Kepulauan Riau","Pangkalpinang","Kota","Pangkalpinang","Maulan Aklil",104.41,218569,7,42
+"Kepulauan Bangka Belitung","Bintan","Kabupaten","Bandar Seri Bentan","Roby Kurniawan",1317.15,185647,10,51
+"Kepulauan Bangka Belitung","Karimun","Kabupaten","Tanjung Balai Karimun","Aunur Rafiq",930.45,291863,14,71
+"Kepulauan Bangka Belitung","Kepulauan Anambas","Kabupaten","Tarempa","Abdul Haris",627.03,51034,9,54
+"Kepulauan Bangka Belitung","Lingga","Kabupaten","Daik","M. Nizar",2210.82,123130,13,84
+"Kepulauan Bangka Belitung","Natuna","Kabupaten","Ranai","Wan Siswandi",1999.16,91864,17,77
+"Kepulauan Bangka Belitung","Batam","Kota","Batam","Muhammad Rudi",1034.73,1307082,12,64
+"Kepulauan Bangka Belitung","Tanjungpinang","Kota","Tanjungpinang","Rahma",150.37,251708,4,18
+"DKI Jakarta","Administrasi Kepulauan Seribu","Kabupaten","Pulau Pramuka","Junaedi",1018,27749,2,6
+"DKI Jakarta","Administrasi Jakarta Barat","Kota","Kembangan","Yani Wahyu Purwoko",124.44,2434511,8,56
+"DKI Jakarta","Administrasi Jakarta Pusat","Kota","Menteng","Dhany Sukma",52.38,1056896,8,44
+"DKI Jakarta","Administrasi Jakarta Selatan","Kota","Kebayoran Baru","Munjirin",154.32,2226812,10,65
+"DKI Jakarta","Administrasi Jakarta Timur","Kota","Cakung","Muhammad Anwar",182.7,3037139,10,65
+"DKI Jakarta","Administrasi Jakarta Utara","Kota","Koja","Ali Maulana Hakim",139.99,1778981,6,31
+"Jawa Barat","Bandung","Kabupaten","Soreang","Dadang Supriatna",1767.96,3623790,31,280
+"Jawa Barat","Bandung Barat","Kabupaten","Ngamprah","Hengky Kurniawan",1305.77,1788336,16,165
+"Jawa Barat","Bekasi","Kabupaten","Cikarang Pusat","Dani Ramdan (Pj.)",1224.88,3113071,23,187
+"Jawa Barat","Bogor","Kabupaten","Cibinong","Iwan Setiawan (Plt.)",2710.62,5427068,40,435
+"Jawa Barat","Ciamis","Kabupaten","Ciamis","Herdiat Sunarya",1414.71,1229069,27,265
+"Jawa Barat","Cianjur","Kabupaten","Cianjur","Herman Suherman",3840.16,2477560,32,360
+"Jawa Barat","Cirebon","Kabupaten","Sumber","Imron Rosyadi",984.52,2270621,40,424
+"Jawa Barat","Garut","Kabupaten","Tarogong Kidul","Rudi Gunawan",3074.07,2585607,42,442
+"Jawa Barat","Indramayu","Kabupaten","Indramayu","Nina Agustina",2040.11,1834434,31,317
+"Jawa Barat","Karawang","Kabupaten","Karawang Barat","Cellica Nurrachadiana",1652.2,2439085,30,309
+"Jawa Barat","Kuningan","Kabupaten","Kuningan","Acep Purnama",1110.56,1167686,32,376
+"Jawa Barat","Majalengka","Kabupaten","Majalengka","Karna Sobahi",1204.24,1305476,26,343
+"Jawa Barat","Pangandaran","Kabupaten","Parigi","Jeje Wiradinata",1010,423667,10,93
+"Jawa Barat","Purwakarta","Kabupaten","Purwakarta","Anne Ratna Mustika",825.74,997869,17,192
+"Jawa Barat","Subang","Kabupaten","Subang","Ruhimat",1893.95,1595320,30,253
+"Jawa Barat","Sukabumi","Kabupaten","Palabuhanratu","Marwan Hamami",4145.7,2725450,47,386
+"Jawa Barat","Sumedang","Kabupaten","Sumedang Utara","Dony Ahmad Munir",1518.33,1152507,26,277
+"Jawa Barat","Tasikmalaya","Kabupaten","Singaparna","Ade Sugianto",2551.19,1865203,39,351
+"Jawa Barat","Bandung","Kota","Bandung","Ema Sumarna (Plh.)",167.67,2444160,30,151
+"Jawa Barat","Banjar","Kota","Banjar","Ade Uu Sukaesih",113.49,200973,4,25
+"Jawa Barat","Bekasi","Kota","Bekasi","Tri Adhianto Tjahyono (Plt.)",206.61,2543676,12,56
+"Jawa Barat","Bogor","Kota","Bogor","Bima Arya Sugiarto",118.5,1043070,6,68
+"Jawa Barat","Cimahi","Kota","Cimahi","Dikdik Suratno Nugrahawan (Pj.)",39.27,568700,3,15
+"Jawa Barat","Cirebon","Kota","Cirebon","Nasrudin Azis",37.36,333303,5,22
+"Jawa Barat","Depok","Kota","Depok","Idris Abdul Shomad",200.29,2056335,11,63
+"Jawa Barat","Sukabumi","Kota","Sukabumi","Achmad Fahmi",48.25,336325,7,33
+"Jawa Barat","Tasikmalaya","Kota","Tasikmalaya","Cheka Virgowansyah (Pj.)",171.61,716155,10,69
+"Jawa Tengah","Banjarnegara","Kabupaten","Banjarnegara","Tri Harso Widirahmanto (Pj.)",1023.73,1017767,20,278
+"Jawa Tengah","Banyumas","Kabupaten","Purwokerto","Achmad Husein",1335.3,1776918,27,331
+"Jawa Tengah","Batang","Kabupaten","Batang","Lani Dewi Rejeki (Pj.)",788.65,801718,15,248
+"Jawa Tengah","Blora","Kabupaten","Blora","Arief Rohman",1821.59,884333,16,295
+"Jawa Tengah","Boyolali","Kabupaten","Boyolali","Said Hidayat",1008.45,1062713,22,267
+"Jawa Tengah","Brebes","Kabupaten","Brebes","Urip Sihabudin (Pj.)",1902.37,1978759,17,297
+"Jawa Tengah","Cilacap","Kabupaten","Cilacap","Yunita Dyah Suminar (Pj.)",2124.47,1944857,24,284
+"Jawa Tengah","Demak","Kabupaten","Demak","Eisti'anah",900.12,1203956,14,249
+"Jawa Tengah","Grobogan","Kabupaten","Purwodadi","Sri Sumarni",2013.86,1453526,19,280
+"Jawa Tengah","Jepara","Kabupaten","Jepara","Edy Supriyanta (Pj.)",1059.25,1184947,16,195
+"Jawa Tengah","Karanganyar","Kabupaten","Karanganyar","Juliyatmono",775.44,931693,17,177
+"Jawa Tengah","Kebumen","Kabupaten","Kebumen","Arif Sugiyanto",1211.74,1350438,26,460
+"Jawa Tengah","Kendal","Kabupaten","Kendal","Dico Ganinduto",1118.13,1018505,20,286
+"Jawa Tengah","Klaten","Kabupaten","Klaten","Sri Mulyani",658.22,1260506,26,401
+"Jawa Tengah","Kudus","Kabupaten","Kudus","Hartopo",425.15,849184,9,132
+"Jawa Tengah","Magelang","Kabupaten","Mungkid","Zaenal Arifin",1102.93,1299859,21,372
+"Jawa Tengah","Pati","Kabupaten","Pati","Henggar Budi Anggoro (Pj.)",1489.19,1324188,21,406
+"Jawa Tengah","Pekalongan","Kabupaten","Kajen","Fadia Arafiq",837,968821,19,285
+"Jawa Tengah","Pemalang","Kabupaten","Pemalang","Mansur Hidayat (Plt.)",1118.03,1471489,14,222
+"Jawa Tengah","Purbalingga","Kabupaten","Purbalingga","Dyah Hayuning Pratiwi",677.55,998561,18,239
+"Jawa Tengah","Purworejo","Kabupaten","Purworejo","Agus Bastian",1091.49,769880,16,494
+"Jawa Tengah","Rembang","Kabupaten","Rembang","Abdul Hafidz",887.13,645333,14,294
+"Jawa Tengah","Semarang","Kabupaten","Ungaran","Ngesti Nugraha",950.21,1053094,19,235
+"Jawa Tengah","Sragen","Kabupaten","Sragen","Kusdinar Untung Yuni Sukowati",941.54,976951,20,208
+"Jawa Tengah","Sukoharjo","Kabupaten","Sukoharjo","Etik Suryani",489.12,907587,12,167
+"Jawa Tengah","Tegal","Kabupaten","Slawi","Umi Azizah",876.1,1596996,18,287
+"Jawa Tengah","Temanggung","Kabupaten","Temanggung","Muhammad Al Khadziq",837.71,790174,20,289
+"Jawa Tengah","Wonogiri","Kabupaten","Wonogiri","Joko Sutopo",1793.67,1043177,25,294
+"Jawa Tengah","Wonosobo","Kabupaten","Wonosobo","Afif Nurhidayat",981.41,879124,15,265
+"Jawa Tengah","Magelang","Kota","Magelang","Muhammad Nur Aziz",16.06,121526,3,17
+"Jawa Tengah","Pekalongan","Kota","Pekalongan","Achmad Afzan Arslan Djunaid",45.25,307150,4,27
+"Jawa Tengah","Salatiga","Kota","Salatiga","Sinoeng Noegroho Rachmadi (Pj.)",57.36,192322,4,23
+"Jawa Tengah","Semarang","Kota","Semarang","Hevearita Gunaryanti Rahayu",373.78,1653524,16,177
+"Jawa Tengah","Surakarta","Kota","Surakarta","Gibran Rakabuming Raka",46.01,522364,5,51
+"Jawa Tengah","Tegal","Kota","Tegal","Dedy Yon Supriyono",39.68,273825,4,27
+"DI Yogyakarta","Bantul","Kabupaten","Bantul","Abdul Halim Muslih",506.86,985770,17,75
+"DI Yogyakarta","Gunungkidul","Kabupaten","Wonosari","Sunaryanta",1485.36,747161,18,144
+"DI Yogyakarta","Kulon Progo","Kabupaten","Wates","Tri Saktiyana (Pj.)",586.27,436935,12,88
+"DI Yogyakarta","Sleman","Kabupaten","Sleman","Kustini Sri Purnomo",574.82,1125804,17,86
+"DI Yogyakarta","Yogyakarta","Kota","Yogyakarta","Sumadi (Pj.)",32.5,373589,14,45
+"Jawa Timur","Bangkalan","Kabupaten","Bangkalan","Mohni (Plt.)",1001.44,1060377,18,281
+"Jawa Timur","Banyuwangi","Kabupaten","Banyuwangi","Ipuk Fiestiandani",5782.4,1708114,25,217
+"Jawa Timur","Blitar","Kabupaten","Kanigoro","Rini Syarifah",1336.48,1223745,22,248
+"Jawa Timur","Bojonegoro","Kabupaten","Bojonegoro","Anna Mu'awanah",2198.79,1301635,28,430
+"Jawa Timur","Bondowoso","Kabupaten","Bondowoso","Salwa Arifin",1525.97,776151,23,219
+"Jawa Timur","Gresik","Kabupaten","Gresik","Fandi Akhmad Yani",1191.25,1311215,18,356
+"Jawa Timur","Jember","Kabupaten","Jember","Hendy Siswanto",3092.34,2536729,31,248
+"Jawa Timur","Jombang","Kabupaten","Jombang","Mundjidah Wahab",1115.09,1318062,21,306
+"Jawa Timur","Kediri","Kabupaten","Ngasem","Hanindhito Himawan Pramana",1386.05,1635924,26,344
+"Jawa Timur","Lamongan","Kabupaten","Lamongan","Yuhronur Efendi",1782.05,1344165,27,474
+"Jawa Timur","Lumajang","Kabupaten","Lumajang","Thoriqul Haq",1790.9,1119251,21,205
+"Jawa Timur","Madiun","Kabupaten","Caruban","Ahmad Dawami Ragil Saputro",1037.58,744350,15,206
+"Jawa Timur","Magetan","Kabupaten","Magetan","Suprawoto",688.84,670812,18,235
+"Jawa Timur","Malang","Kabupaten","Kepanjen","Sanusi",3530.65,2654448,33,390
+"Jawa Timur","Mojokerto","Kabupaten","Mojosari","Ikfina Fahmawati",717.83,1119209,18,304
+"Jawa Timur","Nganjuk","Kabupaten","Nganjuk","Marhaen Djumadi",1224.25,1103902,20,284
+"Jawa Timur","Ngawi","Kabupaten","Ngawi","Ony Anwar Harsono",1295.98,870057,19,217
+"Jawa Timur","Pacitan","Kabupaten","Pacitan","Indrata Nur Bayuaji",1389.92,586110,12,171
+"Jawa Timur","Pamekasan","Kabupaten","Pamekasan","Baddrut Tamam",792.24,850057,13,189
+"Jawa Timur","Pasuruan","Kabupaten","Bangil","Irsyad Yusuf",1474.02,1605969,24,365
+"Jawa Timur","Ponorogo","Kabupaten","Ponorogo","Sugiri Sancoko",1305.7,949318,21,307
+"Jawa Timur","Probolinggo","Kabupaten","Kraksaan","Timbul Prihanjoko (Plt.)",1696.21,1152537,24,330
+"Jawa Timur","Sampang","Kabupaten","Sampang","Slamet Junaidi",1233.08,969694,14,186
+"Jawa Timur","Sidoarjo","Kabupaten","Sidoarjo","Ahmad Muhdlor Ali",634.38,2082801,18,353
+"Jawa Timur","Situbondo","Kabupaten","Situbondo","Karna Suswandi",1669.87,685967,17,136
+"Jawa Timur","Sumenep","Kabupaten","Sumenep","Achmad Fauzi",1998.54,1124436,27,334
+"Jawa Timur","Trenggalek","Kabupaten","Trenggalek","Mochamad Nur Arifin",1147.22,731125,14,157
+"Jawa Timur","Tuban","Kabupaten","Tuban","Aditya Halindra Faridzky",1834.15,1198012,20,328
+"Jawa Timur","Tulungagung","Kabupaten","Tulungagung","Maryoto Birowo",1055.65,1089775,19,271
+"Jawa Timur","Batu","Kota","Batu","Aries Agung Paewai (Pj.)",136.74,213046,3,24
+"Jawa Timur","Blitar","Kota","Blitar","Santoso",32.57,149149,3,21
+"Jawa Timur","Kediri","Kota","Kediri","Abdullah Abu Bakar",63.4,286796,3,46
+"Jawa Timur","Madiun","Kota","Madiun","Maidi",33.29,195175,3,27
+"Jawa Timur","Malang","Kota","Malang","Sutiaji",145.28,843810,5,57
+"Jawa Timur","Mojokerto","Kota","Mojokerto","Ika Puspitasari",16.47,132434,3,18
+"Jawa Timur","Pasuruan","Kota","Pasuruan","Saifullah Yusuf",35.29,208006,4,34
+"Jawa Timur","Probolinggo","Kota","Probolinggo","Hadi Zainal Abidin",56.67,239649,5,29
+"Jawa Timur","Surabaya","Kota","Surabaya","Eri Cahyadi",350.54,2874314,31,154
+"Banten","Lebak","Kabupaten","Rangkasbitung","Iti Octavia Jayabaya",3426.56,1386793,28,345
+"Banten","Pandeglang","Kabupaten","Pandeglang","Irna Narulita",2746.89,1272687,35,339
+"Banten","Serang","Kabupaten","Ciruas","Ratu Tatu Chasanah",1734.28,1622630,29,326
+"Banten","Tangerang","Kabupaten","Tigaraksa","Ahmed Zaki Iskandar",1011.86,3245619,29,274
+"Banten","Cilegon","Kota","Cilegon","Helldy Agustian",175.5,434896,8,43
+"Banten","Serang","Kota","Serang","Syafrudin",266.71,692101,6,67
+"Banten","Tangerang","Kota","Tangerang","Arief Rachadiono Wismansyah",153.93,1895486,13,104
+"Banten","Tangerang Selatan","Kota","Tangerang Selatan","Benyamin Davnie",147.19,1354350,7,54
+"Bali","Badung","Kabupaten","Mangupura","I Nyoman Giri Prasta",398.75,517969,6,62
+"Bali","Bangli","Kabupaten","Bangli","Sang Nyoman Sedana Arta",526.76,255413,4,72
+"Bali","Buleleng","Kabupaten","Singaraja","I Ketut Lihadnyana (Pj.)",1322.75,827642,9,148
+"Bali","Gianyar","Kabupaten","Gianyar","I Made Agus Mahayastra",364.36,501870,7,70
+"Bali","Jembrana","Kabupaten","Negara","I Nengah Tamba",849.13,325879,5,51
+"Bali","Karangasem","Kabupaten","Amlapura","I Gede Dana",839.32,522729,8,78
+"Bali","Klungkung","Kabupaten","Semarapura","I Nyoman Suwirta",313.96,217469,4,59
+"Bali","Tabanan","Kabupaten","Tabanan","I Komang Gede Sanjaya",849.31,465086,10,133
+"Bali","Denpasar","Kota","Denpasar","I Gusti Ngurah Jaya Negara",125.87,653136,4,43
+"Nusa Tenggara Barat","Bima","Kabupaten","Woha","Indah Damayanti Putri",3405.63,533274,18,191
+"Nusa Tenggara Barat","Dompu","Kabupaten","Dompu","Kader Jaelani",2391.54,241836,8,81
+"Nusa Tenggara Barat","Lombok Barat","Kabupaten","Gerung","Fauzan Khalid",923.06,726228,10,122
+"Nusa Tenggara Barat","Lombok Tengah","Kabupaten","Praya","Lalu Pathul Bahri",1095.03,1059324,12,139
+"Nusa Tenggara Barat","Lombok Timur","Kabupaten","Selong","Sukiman Azmy",1230.76,1369918,20,254
+"Nusa Tenggara Barat","Lombok Utara","Kabupaten","Tanjung","Djohan Sjamsu",776.25,252942,5,43
+"Nusa Tenggara Barat","Sumbawa","Kabupaten","Sumbawa","Mahmud Abdullah",6643.98,509753,24,165
+"Nusa Tenggara Barat","Sumbawa Barat","Kabupaten","Taliwang","W. Musyafirin",1849.02,148606,8,64
+"Nusa Tenggara Barat","Bima","Kota","Bima","Muhammad Lutfi",222.25,155140,5,38
+"Nusa Tenggara Barat","Mataram","Kota","Mataram","Mohan Roliskana",61.3,441506,6,50
+"Nusa Tenggara Timur","Alor","Kabupaten","Kalabahi","Amon Djobo",2864.6,211872,17,175
+"Nusa Tenggara Timur","Belu","Kabupaten","Atambua","Agustinus Taolin",1284.97,217973,12,81
+"Nusa Tenggara Timur","Ende","Kabupaten","Ende","Djafar H. Achmad",2046.5,270763,21,278
+"Nusa Tenggara Timur","Flores Timur","Kabupaten","Larantuka","Doris Alexander Rihi (Pj.)",1813.2,276896,19,250
+"Nusa Tenggara Timur","Kupang","Kabupaten","Oelamasi","Korinus Masneno",5434.76,366383,24,177
+"Nusa Tenggara Timur","Lembata","Kabupaten","Lewoleba","Matheos Tan (Pj.)",1266,135930,9,151
+"Nusa Tenggara Timur","Malaka","Kabupaten","Betun","Simon Nahak",1160.63,183898,12,127
+"Nusa Tenggara Timur","Manggarai","Kabupaten","Ruteng","Herybertus Geradus Laju Nabit",2096.44,312855,12,171
+"Nusa Tenggara Timur","Manggarai Barat","Kabupaten","Labuan Bajo","Edistasius Endi",2397.03,256317,12,169
+"Nusa Tenggara Timur","Manggarai Timur","Kabupaten","Borong","Agas Andreas",2642.93,275603,9,176
+"Nusa Tenggara Timur","Nagekeo","Kabupaten","Mbay","Johanes Don Bosco Do",1416.96,159732,7,113
+"Nusa Tenggara Timur","Ngada","Kabupaten","Bajawa","Andreas Paru",1645.88,165254,12,151
+"Nusa Tenggara Timur","Rote Ndao","Kabupaten","Baa","Paulina Haning-Bullu",1280,143764,10,119
+"Nusa Tenggara Timur","Sabu Raijua","Kabupaten","Menia","Nikodemus Nithanel Rihi Heke",460.54,89327,6,63
+"Nusa Tenggara Timur","Sikka","Kabupaten","Maumere","Fransiskus Roberto Diogo",1731.9,321953,21,160
+"Nusa Tenggara Timur","Sumba Barat","Kabupaten","Kota Waikabubak","Johanes Dade",737.42,145097,6,74
+"Nusa Tenggara Timur","Sumba Barat Daya","Kabupaten","Kota Tambolaka","Markus Dairo Talu",1480.46,303650,11,175
+"Nusa Tenggara Timur","Sumba Tengah","Kabupaten","Waibakul","Paulus Limu",1868.74,85482,5,65
+"Nusa Tenggara Timur","Sumba Timur","Kabupaten","Kota Waingapu","Khristofel Praing",7000.5,244820,22,156
+"Nusa Tenggara Timur","Timor Tengah Selatan","Kabupaten","Kota Soe","Egusem Pieter Tahun",3947,455410,32,278
+"Nusa Tenggara Timur","Timor Tengah Utara","Kabupaten","Kota Kefamenanu","Juandi David",2669.7,259829,24,193
+"Nusa Tenggara Timur","Kupang","Kota","Kupang","George Melkianus Hadjoh (Pj.)",180.27,442758,6,51
+"Kalimantan Barat","Bengkayang","Kabupaten","Bengkayang","Sebastianus Darwis",5075.48,283775,17,124
+"Kalimantan Barat","Kapuas Hulu","Kabupaten","Putussibau","Fransiskus Diaan",29842,237599,23,282
+"Kalimantan Barat","Kayong Utara","Kabupaten","Sukadana","Citra Duani",4568.26,122311,6,43
+"Kalimantan Barat","Ketapang","Kabupaten","Ketapang","Martin Rantan",31240.74,578533,20,262
+"Kalimantan Barat","Kubu Raya","Kabupaten","Sungai Raya","Muda Mahendrawan",6958.22,601356,9,117
+"Kalimantan Barat","Landak","Kabupaten","Ngabang","Samuel (Pj.)",8915.1,396072,13,156
+"Kalimantan Barat","Melawi","Kabupaten","Nanga Pinoh","Dadi Sunarya Usfa Yusra",10640.8,228787,11,169
+"Kalimantan Barat","Mempawah","Kabupaten","Mempawah","Erlina",2797.88,301715,9,67
+"Kalimantan Barat","Sambas","Kabupaten","Sambas","Satono",6716.52,631865,19,193
+"Kalimantan Barat","Sanggau","Kabupaten","Kapuas","Paolus Hadi",12857.8,482500,15,169
+"Kalimantan Barat","Sekadau","Kabupaten","Sekadau Hilir","Rupinus",5444.2,208791,7,87
+"Kalimantan Barat","Sintang","Kabupaten","Sintang","Jarot Winarno",21638.2,403095,14,406
+"Kalimantan Barat","Pontianak","Kota","Pontianak","Edi Rusdi Kamtono",107.8,655572,6,29
+"Kalimantan Barat","Singkawang","Kota","Singkawang","Sumastro (Pj.)",547.5,232993,5,26
+"Kalimantan Tengah","Barito Selatan","Kabupaten","Buntok","Deddy Winarwan (Pj.)",8830,131140,6,93
+"Kalimantan Tengah","Barito Timur","Kabupaten","Tamiang Layang","Ampera A.Y. Mebas",3834,113229,10,103
+"Kalimantan Tengah","Barito Utara","Kabupaten","Muara Teweh","Nadalsyah",8300,154812,9,103
+"Kalimantan Tengah","Gunung Mas","Kabupaten","Kuala Kurun","Jaya Samaya Monong",10805,135373,12,127
+"Kalimantan Tengah","Kapuas","Kabupaten","Kuala Kapuas","M. Nafiah Ibnor (Plt.)",14999,410446,17,231
+"Kalimantan Tengah","Katingan","Kabupaten","Kasongan","Sakariyas",17500,162222,13,161
+"Kalimantan Tengah","Kotawaringin Barat","Kabupaten","Pangkalan Bun","Budi Santosa (Pj.)",10759,270388,6,94
+"Kalimantan Tengah","Kotawaringin Timur","Kabupaten","Sampit","Halikinnor",16796,428895,17,185
+"Kalimantan Tengah","Lamandau","Kabupaten","Nanga Bulik","Hendra Lesmana",6414,97611,8,88
+"Kalimantan Tengah","Murung Raya","Kabupaten","Puruk Cahu","Perdie M. Yoseph",23700,111527,10,125
+"Kalimantan Tengah","Pulang Pisau","Kabupaten","Pulang Pisau","Pudjirustaty Narang",8997,134499,8,99
+"Kalimantan Tengah","Sukamara","Kabupaten","Sukamara","Windu Subagio",3827,63464,5,32
+"Kalimantan Tengah","Seruyan","Kabupaten","Kuala Pembuang","Yulhaidir",16404,162906,10,100
+"Kalimantan Tengah","Palangka Raya","Kota","Palangka Raya","Fairid Naparin",2399.5,293457,5,30
+"Kalimantan Selatan","Balangan","Kabupaten","Paringin","Abdul Hadi",1878.3,130355,8,157
+"Kalimantan Selatan","Banjar","Kabupaten","Martapura","Saidi Mansyur",4668,565635,20,290
+"Kalimantan Selatan","Barito Kuala","Kabupaten","Marabahan","Mujiyat (Pj.)",2996.46,313021,17,201
+"Kalimantan Selatan","Hulu Sungai Selatan","Kabupaten","Kandangan","Achmad Fikry",1804.94,228006,11,148
+"Kalimantan Selatan","Hulu Sungai Tengah","Kabupaten","Barabai","Aulia Oktafiandi",1472,258721,11,169
+"Kalimantan Selatan","Hulu Sungai Utara","Kabupaten","Amuntai","Raden Suria Fadliansyah (Pj.)",892.7,226727,10,219
+"Kalimantan Selatan","Kotabaru","Kabupaten","Kotabaru","Sayed Jafar Alaydrus",9482.73,325622,21,202
+"Kalimantan Selatan","Tabalong","Kabupaten","Tanjung","Anang Syakhfiani",3766.97,253305,12,131
+"Kalimantan Selatan","Tanah Bumbu","Kabupaten","Batulicin","Zairullah Azhar",5006.96,322646,10,149
+"Kalimantan Selatan","Tanah Laut","Kabupaten","Pelaihari","Sukamta",3631.35,348966,11,135
+"Kalimantan Selatan","Tapin","Kabupaten","Rantau","Arifin Arpan",2700.82,189475,12,135
+"Kalimantan Selatan","Banjarbaru","Kota","Banjarbaru","Aditya Mufti Ariffin",371,253442,5,20
+"Kalimantan Selatan","Banjarmasin","Kota","Banjarmasin","Ibnu Sina",72,657663,5,52
+"Kalimantan Timur","Berau","Kabupaten","Tanjung Redeb","Sri Juniarsih Mas",36962.37,238214,13,110
+"Kalimantan Timur","Kutai Barat","Kabupaten","Sendawar","F.X. Yapan",20384.6,165938,16,194
+"Kalimantan Timur","Kutai Kartanegara","Kabupaten","Tenggarong","Edi Damansyah",27263.1,734485,18,237
+"Kalimantan Timur","Kutai Timur","Kabupaten","Sangatta","Ardiansyah Sulaiman",35747.5,424334,18,141
+"Kalimantan Timur","Mahakam Ulu","Kabupaten","Ujoh Bilang","Bonifasius Belawan Geh",15315,35010,5,50
+"Kalimantan Timur","Paser","Kabupaten","Tanah Grogot","Fahmi Fadli",7730.88,277401,10,144
+"Kalimantan Timur","Penajam Paser Utara","Kabupaten","Penajam","Hamdam Pongrewa",3333.06,181349,4,54
+"Kalimantan Timur","Balikpapan","Kota","Balikpapan","Rahmad Mas'ud",533,727655,6,34
+"Kalimantan Timur","Bontang","Kota","Bontang","Basri Rase",149.8,185928,3,15
+"Kalimantan Timur","Samarinda","Kota","Samarinda","Andi Harun",718,834824,10,59
+"Kalimantan Utara","Bulungan","Kabupaten","Tanjung Selor","Syarwani",13925.72,151800,10,81
+"Kalimantan Utara","Malinau","Kabupaten","Malinau","Wempi Wellem Mawa",42620.7,82500,15,109
+"Kalimantan Utara","Nunukan","Kabupaten","Nunukan","Asmin Laura",13841.9,199090,21,240
+"Kalimantan Utara","Tana Tidung","Kabupaten","Tideng Pale","Ibrahim Ali",4828.58,25600,5,32
+"Kalimantan Utara","Tarakan","Kota","Tarakan","Khairul",250.8,242800,4,20
+"Sulawesi Utara","Bolaang Mongondow","Kabupaten","Lolak","Limi Mokodompit (Pj.)",5397.69,248751,15,202
+"Sulawesi Utara","Bolaang Mongondow Selatan","Kabupaten","Bolaang Uki","Iskandar Kamaru",1932.6,69791,7,81
+"Sulawesi Utara","Bolaang Mongondow Timur","Kabupaten","Tutuyan","Sam Sachrul Mamonto",910.18,87241,7,81
+"Sulawesi Utara","Bolaang Mongondow Utara","Kabupaten","Boroko","Depri Pontoh",1856.86,83112,6,107
+"Sulawesi Utara","Kepulauan Sangihe","Kabupaten","Tahuna","Rinny Tamuntuan (Pj.)",736.98,139262,15,167
+"Sulawesi Utara","Kepulauan Siau Tagulandang Biaro","Kabupaten","Ondong Siau","Evangeline Sasingen",275.96,72135,10,93
+"Sulawesi Utara","Kepulauan Talaud","Kabupaten","Melonguane","Elly Engelbert Lasut",1251.02,113521,19,153
+"Sulawesi Utara","Minahasa","Kabupaten","Tondano","Royke Octavian Roring",1025.85,348670,25,270
+"Sulawesi Utara","Minahasa Selatan","Kabupaten","Amurang","Franky Donny Wongkar",1456.46,238740,17,177
+"Sulawesi Utara","Minahasa Tenggara","Kabupaten","Ratahan","James Sumendap",730.63,117079,12,144
+"Sulawesi Utara","Minahasa Utara","Kabupaten","Airmadidi","Joune Ganda",1059.24,224993,10,132
+"Sulawesi Utara","Bitung","Kota","Bitung","Maurits Mantiri",313.51,225134,8,69
+"Sulawesi Utara","Kotamobagu","Kota","Kotamobagu","Tatong Bara",184.33,125492,4,33
+"Sulawesi Utara","Manado","Kota","Manado","Andrei Angouw",162.53,476910,11,87
+"Sulawesi Utara","Tomohon","Kota","Tomohon","Caroll Senduk",147.21,100587,5,44
+"Sulawesi Tengah","Banggai","Kabupaten","Luwuk","Herwin Yatim",9672.7,359495,23,337
+"Sulawesi Tengah","Banggai Kepulauan","Kabupaten","Salakan","Ihsan Basir (Pj.)",2488.79,117526,12,144
+"Sulawesi Tengah","Banggai Laut","Kabupaten","Banggai","Sofyan Kaepa",725.67,63127,7,66
+"Sulawesi Tengah","Buol","Kabupaten","Buol","Moh. Muchlis Yojodolo (Pj.)",4043.57,132786,11,115
+"Sulawesi Tengah","Donggala","Kabupaten","Banawa","Kasman Lassa",4275.08,293470,16,167
+"Sulawesi Tengah","Morowali","Kabupaten","Bungku Tengah","Taslim",3037.04,129814,9,133
+"Sulawesi Tengah","Morowali Utara","Kabupaten","Kolonodale","Delis Julkarson Hehi",10004.28,117164,10,125
+"Sulawesi Tengah","Parigi Moutong","Kabupaten","Parigi","Samsurizal Tombolotutu",5089.91,444513,23,283
+"Sulawesi Tengah","Poso","Kabupaten","Poso","Verna Gladies Merry Inkiriwang",7112.25,243025,19,169
+"Sulawesi Tengah","Sigi","Kabupaten","Sigi Biromaru","Mohamad Irwan Lapatta",5196.02,247057,15,176
+"Sulawesi Tengah","Tojo Una-Una","Kabupaten","Ampana Kota","Mohammad Lahay",5721.15,155885,12,146
+"Sulawesi Tengah","Tolitoli","Kabupaten","Baolan","Amran Hi. Yahya",4079.77,211973,10,109
+"Sulawesi Tengah","Palu","Kota","Palu","Hadianto Rasyid",395.06,363867,8,46
+"Sulawesi Selatan","Bantaeng","Kabupaten","Bantaeng","Ilham Syah Azikin",395.83,176699,8,67
+"Sulawesi Selatan","Barru","Kabupaten","Barru","Suardi Saleh",1174.71,165983,7,55
+"Sulawesi Selatan","Bone","Kabupaten","Watampone","Andi Fahsar M. Padjalangi",4559,717268,27,372
+"Sulawesi Selatan","Bulukumba","Kabupaten","Ujung Bulu","Andi Muchtar Ali Yusuf",1154.67,394560,10,136
+"Sulawesi Selatan","Enrekang","Kabupaten","Enrekang","Muslimin Bando",1786.01,190579,12,129
+"Sulawesi Selatan","Gowa","Kabupaten","Sungguminasa","Adnan Purichta Ichsan",1883.32,652329,18,167
+"Sulawesi Selatan","Jeneponto","Kabupaten","Bontosunggu","Iksan Iskandar",749.79,342222,11,113
+"Sulawesi Selatan","Kepulauan Selayar","Kabupaten","Benteng","Muhammad Basli Ali",10503.69,122055,11,88
+"Sulawesi Selatan","Luwu","Kabupaten","Belopa","Basmin Mattayang",3000.25,332482,21,227
+"Sulawesi Selatan","Luwu Timur","Kabupaten","Malili","Budiman Hakim",6944.88,243069,11,128
+"Sulawesi Selatan","Luwu Utara","Kabupaten","Masamba","Indah Putri Indriani",7502.58,287472,15,173
+"Sulawesi Selatan","Maros","Kabupaten","Turikale","Chaidir Syam",1619.12,322212,14,103
+"Sulawesi Selatan","Pangkajene dan Kepulauan","Kabupaten","Pangkajene","Muhammad Yusran Lalogau",1236.27,305758,13,103
+"Sulawesi Selatan","Pinrang","Kabupaten","Watang Sawitto","Andi Irwan Hamid",1961.77,351161,12,109
+"Sulawesi Selatan","Sidenreng Rappang","Kabupaten","Pangkajene Sidenreng","Dollah Mando",2506.19,278004,11,106
+"Sulawesi Selatan","Sinjai","Kabupaten","Balangnipa","Andi Seto Gadhista Asapa",819.96,228936,9,80
+"Sulawesi Selatan","Soppeng","Kabupaten","Watansoppeng","Andi Kaswadi Razak",1359.44,223757,8,70
+"Sulawesi Selatan","Takalar","Kabupaten","Pattallassang","Setiawan Aswad (Pj.)",566.51,269171,10,100
+"Sulawesi Selatan","Tana Toraja","Kabupaten","Makale","Theofilus Allorerung",2054.3,221795,19,159
+"Sulawesi Selatan","Toraja Utara","Kabupaten","Rantepao","Yohanis Bassang",1151.47,215400,21,151
+"Sulawesi Selatan","Wajo","Kabupaten","Sengkang","Amran Mahmud",2056.2,384694,14,190
+"Sulawesi Selatan","Makassar","Kota","Makassar","Moh. Ramdhan Pomanto",175.77,1334090,15,153
+"Sulawesi Selatan","Palopo","Kota","Palopo","Judas Amir",247.52,148033,9,48
+"Sulawesi Selatan","Parepare","Kota","Parepare","Taufan Pawe",99.33,132048,4,22
+"Sulawesi Tenggara","Bombana","Kabupaten","Rumbia","Burhanuddin (Pj.)",3001,136582,22,143
+"Sulawesi Tenggara","Buton","Kabupaten","Pasarwajo","Basiran (Pj.)",1212.99,114596,7,95
+"Sulawesi Tenggara","Buton Selatan","Kabupaten","Batauga","La Ode Budiman (Pj.)",509.92,94727,7,70
+"Sulawesi Tenggara","Buton Tengah","Kabupaten","Labungkari","Muhamad Yusuf (Pj.)",958.31,115121,7,77
+"Sulawesi Tenggara","Buton Utara","Kabupaten","Buranga","M. Ridwan Zakariah",1864.91,62197,6,90
+"Sulawesi Tenggara","Kolaka","Kabupaten","Kota Kolaka","Ahmad Safei",3283.59,228970,12,135
+"Sulawesi Tenggara","Kolaka Timur","Kabupaten","Tirawuta","Abdul Azis (Plt.)",3634.74,119461,13,133
+"Sulawesi Tenggara","Kolaka Utara","Kabupaten","Lasusua","Parinringi (Pj.)",3391.67,134771,15,133
+"Sulawesi Tenggara","Konawe","Kabupaten","Kota Unaaha","Kery Saiful Konggoasa",4435.28,253659,27,354
+"Sulawesi Tenggara","Konawe Kepulauan","Kabupaten","Langara","Amrullah",867.58,34226,7,96
+"Sulawesi Tenggara","Konawe Selatan","Kabupaten","Andolo","Surunuddin Dangga",5779.47,306783,25,351
+"Sulawesi Tenggara","Konawe Utara","Kabupaten","Wanggudu","Ruksamin",5101.76,64773,13,170
+"Sulawesi Tenggara","Muna","Kabupaten","Kota Raha","La Ode M. Rusman Emba",1922.16,227941,22,151
+"Sulawesi Tenggara","Muna Barat","Kabupaten","Sawerigadi","Bahri (Pj.)",1022.89,78630,11,86
+"Sulawesi Tenggara","Wakatobi","Kabupaten","Wangi-Wangi","Haliana",559.54,110303,8,101
+"Sulawesi Tenggara","Baubau","Kota","Baubau","La Ode Ahmad Monianse",221,154487,8,43
+"Sulawesi Tenggara","Kendari","Kota","Kendari","Asmawa Tosepu (Pj.)",300.89,334335,10,64
+"Gorontalo","Boalemo","Kabupaten","Tilamuta","Hendriwan (Pj.)",1521.88,143689,7,82
+"Gorontalo","Bone Bolango","Kabupaten","Suwawa","Hamim Pou",1984.31,160154,18,165
+"Gorontalo","Gorontalo","Kabupaten","Limboto","Nelson Pomalingo",1750.83,391944,19,205
+"Gorontalo","Gorontalo Utara","Kabupaten","Kwandang","Thariq Modanggu",1676.15,124202,11,123
+"Gorontalo","Pohuwato","Kabupaten","Marisa","Saipul A. Mbuinga",4244.31,141281,13,104
+"Gorontalo","Gorontalo","Kota","Gorontalo","Marten Taha",79.59,196055,9,50
+"Sulawesi Barat","Majene","Kabupaten","Banggae","Andi Achmad Syukri Tammalele",947.84,166505,8,82
+"Sulawesi Barat","Mamasa","Kabupaten","Mamasa","Ramlan Badawi",3005.88,203599,17,181
+"Sulawesi Barat","Mamuju","Kabupaten","Mamuju","Sitti Sutinah Suhardi",3973.07,110593,11,103
+"Sulawesi Barat","Mamuju Tengah","Kabupaten","Tobadak","Aras Tammauni",3014.37,142913,5,54
+"Sulawesi Barat","Pasangkayu","Kabupaten","Pasangkayu","Yaumil Ambo Djiwa",3043.75,208325,12,63
+"Sulawesi Barat","Polewali Mandar","Kabupaten","Polewali","Andi Ibrahim Masdar",1775.65,517677,16,167
+"Maluku","Buru","Kabupaten","Namlea","Djalaludin Salampessy (Pj.)",4932.32,130696,10,82
+"Maluku","Buru Selatan","Kabupaten","Namrole","Safitri Malik Soulisa",3780.56,72993,6,79
+"Maluku","Kepulauan Aru","Kabupaten","Dobo","Johan Gonga",8152.42,102272,10,119
+"Maluku","Kepulauan Tanimbar","Kabupaten","Saumlaki","Daniel Indey (Pj.)",4465.79,122337,10,82
+"Maluku","Maluku Barat Daya","Kabupaten","Tiakur","Benyamin Thomas Noach",4581.06,66805,17,118
+"Maluku","Maluku Tengah","Kabupaten","Masohi","Muhamad Marasabessy (Pj.)",7953.81,422065,18,192
+"Maluku","Maluku Tenggara","Kabupaten","Langgur","Muh. Thaher Hanubun",1031.81,125704,11,191
+"Maluku","Seram Bagian Barat","Kabupaten","Piru","Andi Chandra As’aduddin (Pj.)",5033.38,208009,11,92
+"Maluku","Seram Bagian Timur","Kabupaten","Bula","Abdul Mukti Keliobas",6429.88,131707,15,198
+"Maluku","Ambon","Kota","Ambon","Bodewin Wattimena (Pj.)",298.61,375760,5,50
+"Maluku","Tual","Kota","Tual","Adam Rahayaan",254.39,84585,5,30
+"Maluku Utara","Halmahera Barat","Kabupaten","Jailolo","James Uang",1704.2,132427,8,169
+"Maluku Utara","Halmahera Tengah","Kabupaten","Weda","Ikram M. Sangadji (Pj.)",2653.76,50164,10,61
+"Maluku Utara","Halmahera Timur","Kabupaten","Kota Maba","Ubaid Yakub",6571.37,90924,10,102
+"Maluku Utara","Halmahera Selatan","Kabupaten","Labuha","Usman Sidik",8148.9,247378,30,249
+"Maluku Utara","Halmahera Utara","Kabupaten","Tobelo","Frans Manery",3896.9,194291,17,196
+"Maluku Utara","Kepulauan Sula","Kabupaten","Sanana","Fifian Adeningsi Mus",3304.32,110507,12,78
+"Maluku Utara","Pulau Morotai","Kabupaten","Daruba","Muhammad Umar Ali (Pj.)",2476,66983,5,88
+"Maluku Utara","Pulau Taliabu","Kabupaten","Bobong","Aliong Mus",1469.93,56202,8,71
+"Maluku Utara","Ternate","Kota","Ternate","M. Tauhid Soleman",111.39,215524,7,77
+"Maluku Utara","Tidore Kepulauan","Kota","Soasio","Ali Ibrahim",1645.73,111431,8,89
+"Papua","Biak Numfor","Kabupaten","Biak","Herry Ario Naap",2602,134650,19,268
+"Papua","Jayapura","Kabupaten","Sentani","Triwarno Purnomo (Pj.)",11157.15,166171,19,144
+"Papua","Keerom","Kabupaten","Arso (de facto)Waris (de jure)","Piter Gusbager",8390,61623,11,91
+"Papua","Kepulauan Yapen","Kabupaten","Serui Kota","Cyfrianus Yustus Mambay (Pj.)",2050,112676,16,165
+"Papua","Mamberamo Raya","Kabupaten","Burmeso","Dorinus Dasinapa",23813.91,36483,8,60
+"Papua","Sarmi","Kabupaten","Sarmi","Markus Oktovianus Mansnembra (Pj.)",17742,41515,10,94
+"Papua","Supiori","Kabupaten","Sorendiweri","Yan Imbab",678.32,22547,5,38
+"Papua","Waropen","Kabupaten","Botawa","Yeremias Bisay",10977.09,33943,11,100
+"Papua","Jayapura","Kota","Jayapura","Frans Pekey (Pj.)",935.92,398478,5,39
+"Papua Barat","Fakfak","Kabupaten","Fakfak","Untung Tamsil",14320,85197,17,149
+"Papua Barat","Kaimana","Kabupaten","Kaimana","Freddy Thie",16241.84,62256,7,86
+"Papua Barat","Manokwari","Kabupaten","Manokwari","Hermus Indou",3186.28,192663,9,173
+"Papua Barat","Manokwari Selatan","Kabupaten","Ransiki","Markus Waran",2812.44,35949,6,57
+"Papua Barat","Pegunungan Arfak","Kabupaten","Anggi","Yosias Saroy",2773.74,38207,10,166
+"Papua Barat","Teluk Bintuni","Kabupaten","Bintuni","Petrus Kasihiw",20840.83,87033,24,117
+"Papua Barat","Teluk Wondama","Kabupaten","Rasiei","Hendrik Mambor",3959.53,41644,13,76
+"Papua Selatan","Asmat","Kabupaten","Agats","Elisa Kambu",31983.69,110105,19,221
+"Papua Selatan","Boven Digoel","Kabupaten","Tanah Merah","Hengky Yaluwo",27108,64285,20,112
+"Papua Selatan","Mappi","Kabupaten","Kepi","Michael Rooney Gomar (Pj.)",24118,108295,15,164
+"Papua Selatan","Merauke","Kabupaten","Merauke","Romanus Mbaraka",44071,230932,20,190
+"Papua Tengah","Deiyai","Kabupaten","Tigi","Ateng Edowai",537.39,99091,5,67
+"Papua Tengah","Dogiyai","Kabupaten","Kamu","Petrus Agapa (Pj.)",4237.4,116206,10,79
+"Papua Tengah","Intan Jaya","Kabupaten","Sugapa","Apolos Bagau (Pj.)",3922.02,135043,8,97
+"Papua Tengah","Mimika","Kabupaten","Timika","Johannes Rettob (Plt.)",21633,311969,18,111
+"Papua Tengah","Nabire","Kabupaten","Nabire","Mesak Magai",11112.61,169136,15,81
+"Papua Tengah","Paniai","Kabupaten","Enarotali","Meki Fritz Nawipa",6525.25,220410,23,221
+"Papua Tengah","Puncak","Kabupaten","Ilaga","Willem Wandik",8055,114741,25,206
+"Papua Tengah","Puncak Jaya","Kabupaten","Mulia","Tumiran (Pj.)",5996.94,224527,26,305
+"Papua Pegunungan","Jayawijaya","Kabupaten","Wamena","John Richard Banua",13925.31,277923,40,332
+"Papua Pegunungan","Lanny Jaya","Kabupaten","Tiom","Petrus Wakerkwa (Pj.)",6077.4,201461,39,355
+"Papua Pegunungan","Mamberamo Tengah","Kabupaten","Kobakma","Yonas Kenelak (Plt.)",3743.64,51719,5,59
+"Papua Pegunungan","Nduga","Kabupaten","Kenyam","Namia Gwijangge (Pj.)",12941,109630,32,248
+"Papua Pegunungan","Pegunungan Bintang","Kabupaten","Oksibil","Spei Yan Birdana",15683,78466,34,277
+"Papua Pegunungan","Tolikara","Kabupaten","Karubaga","Marthen Kogoya (Pj.)",14564,244345,46,545
+"Papua Pegunungan","Yalimo","Kabupaten","Elelim","Nahor Nekwek",4330.29,103387,5,300
+"Papua Pegunungan","Yahukimo","Kabupaten","Sumohai (de jure)Dekai (de facto)","Didimus Yahuli",17152,350880,51,511
+"Papua Barat Daya","Maybrat","Kabupaten","Kumurkek","Bernhard Rondonuwu (Pj.)",5461.69,42991,24,260
+"Papua Barat Daya","Raja Ampat","Kabupaten","Waisai","Abdul Faris Umlati",8034.44,64141,24,121
+"Papua Barat Daya","Sorong","Kabupaten","Aimas","Yan Piet Moso (Pj.)",6544.23,118679,30,252
+"Papua Barat Daya","Sorong Selatan","Kabupaten","Teminabuan","Samsudin Anggiluli",6594.31,52469,15,123
+"Papua Barat Daya","Tambrauw","Kabupaten","Fef","Engelbertus Gabriel Kocu (Pj.)",11529.18,28379,29,216
+"Papua Barat Daya","Sorong","Kota","Sorong","George Yarangga (Pj.)",656.64,284410,10,52

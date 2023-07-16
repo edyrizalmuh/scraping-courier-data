@@ -1,0 +1,39 @@
+"wilayah","provinsi","kabupaten","kota","jumlah"
+"Sumatra","Aceh",18,5,23
+"Sumatra","Sumatra Utara",25,8,33
+"Sumatra","Sumatra Barat",12,7,19
+"Sumatra","Riau",10,2,12
+"Sumatra","Jambi",9,2,11
+"Sumatra","Sumatra Selatan",13,4,17
+"Sumatra","Bengkulu",9,1,10
+"Sumatra","Lampung",13,2,15
+"Sumatra","Kepulauan Riau",5,2,7
+"Sumatra","Kepulauan Bangka Belitung",6,1,7
+"Jawa","DKI Jakarta",1,5,6
+"Jawa","Jawa Barat",18,9,27
+"Jawa","Jawa Tengah",29,6,35
+"Jawa","DI Yogyakarta",4,1,5
+"Jawa","Jawa Timur",29,9,38
+"Jawa","Banten",4,4,8
+"Nusa Tenggara","Bali",8,1,9
+"Nusa Tenggara","Nusa Tenggara Barat",8,2,10
+"Nusa Tenggara","Nusa Tenggara Timur",21,1,22
+"Kalimantan","Kalimantan Barat",12,2,14
+"Kalimantan","Kalimantan Tengah",13,1,14
+"Kalimantan","Kalimantan Selatan",11,2,13
+"Kalimantan","Kalimantan Timur",7,3,10
+"Kalimantan","Kalimantan Utara",4,1,5
+"Sulawesi","Sulawesi Utara",11,4,15
+"Sulawesi","Sulawesi Tengah",12,1,13
+"Sulawesi","Sulawesi Selatan",21,3,24
+"Sulawesi","Sulawesi Tenggara",15,2,17
+"Sulawesi","Gorontalo",5,1,6
+"Sulawesi","Sulawesi Barat",6,0,6
+"Maluku","Maluku",9,2,11
+"Maluku","Maluku Utara",8,2,10
+"Papua","Papua",8,1,9
+"Papua","Papua Barat",7,0,7
+"Papua","Papua Selatan",4,0,4
+"Papua","Papua Tengah",8,0,8
+"Papua","Papua Pegunungan",8,0,8
+"Papua","Papua Barat Daya",5,1,6
