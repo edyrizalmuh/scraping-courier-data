@@ -15,7 +15,7 @@ scroll = function(client){
     search_list[[1]]$sendKeysToElement(list(key = "page_up"))
     search_list[[1]]$sendKeysToElement(list(key = "end"))
     Sys.sleep(1)
-    client$setTimeout("implicit", 0)
+    # client$setTimeout("implicit", 0)
     end = 
       tryCatch({
         suppressMessages(client$findElement("class", "HlvSq"))

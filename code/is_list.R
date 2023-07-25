@@ -13,7 +13,8 @@ is_list = function(client){
   image_pane = 
     tryCatch({
       suppressMessages(
-        client$findElement("xpath", '//*[contains(concat( " ", @class, " " ), concat( " ", "lvtCsd", " " ))]//img')
+        # client$findElement("xpath", '//*[contains(concat( " ", @class, " " ), concat( " ", "lvtCsd", " " ))]//img')
+        client$findElement("class", "ZKCDEc")
       )
     }, error = function(e){
       return(NULL)

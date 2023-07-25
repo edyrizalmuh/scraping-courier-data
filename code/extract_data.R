@@ -35,6 +35,13 @@ extract_data = function(client, url, multiple_results){
       return(NA)
     })
   
+  type = 
+    tryCatch({
+      suppressMessages(client$findElement("class", "DkEaL")$getElementText()[[1]])
+    }, error = function(e){
+      return(NA)
+    })
+    
   rating = 
     tryCatch({
       suppressMessages(
@@ -91,6 +98,7 @@ extract_data = function(client, url, multiple_results){
   return(
     tibble(
       branch_name = branch_name,
+      type = type,
       rating = rating,
       num_review = num_review,
       status = status,
